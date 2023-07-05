@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable-v24/ic_thoi_tiet_1.xml" value="0.17" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/custom_button.xml" value="0.17" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/custom_thoi_tiet.xml" value="0.17" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/do_am.xml" value="0.173" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/edit_text.xml" value="0.1725" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/fragment_home.xml" value="0.1725" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/gio.xml" value="0.173" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_bao.xml" value="0.17" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_da_luu.xml" value="0.174" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_da_xem.xml" value="0.17" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_dang_xuat.xml" value="0.17" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_key.xml" value="0.1725" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_lock.xml" value="0.17" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_luu.xml" value="0.174" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_quay_lai.xml" value="0.1725" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_thoi_tiet.xml" value="0.17" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_thoi_tiet_1.xml" value="0.17" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_thong_tin.xml" value="0.1725" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_tim_kiem.xml" value="0.1725" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_trai_tim.xml" value="0.174" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_tuy_chon.xml" value="0.174" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/ic_xoa.xml" value="0.17" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/drawable/may.xml" value="0.173" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/activity_dang_nhap.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/bottom_navigation.xml" value="0.18" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/dang_ky.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/dang_nhap.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/dialog_sua_chuyen_muc.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/dialog_them_chuyen_muc.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/dong_bai_bao.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/dong_chuyen_muc.xml" value="0.2" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_a.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_b.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_chuyen_muc.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_chuyen_muc_khac.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_tab1.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_tab10.xml" value="0.19947916666666668" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_tab2.xml" value="0.19010416666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_tab3.xml" value="0.19947916666666668" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_tab4.xml" value="0.22" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_tab5.xml" value="0.19947916666666668" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_tab6.xml" value="0.19947916666666668" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_tab7.xml" value="0.19947916666666668" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_tab8.xml" value="0.19947916666666668" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_tab9.xml" value="0.19947916666666668" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_tien_ich.xml" value="0.16" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/fragment_tin_tuc.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/layout_bai_bao_da_doc.xml" value="0.19947916666666668" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/layout_bai_bao_da_luu.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/layout_bai_bao_yeu_thich.xml" value="0.203125" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/layout_dang_ky_mang.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/layout_doc_bao.xml" value="0.19947916666666668" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/layout_thong_tin.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/layout_xem_lich.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/layout_xem_thoi_tiet.xml" value="0.15537059056678557" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/layout_xem_vi_tri.xml" value="0.14765625" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/splash_creen.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/layout/tab_layout.xml" value="0.19635416666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/menu/menu_bottom_nav.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/menu/menu_sua_xoa.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/menu/menu_them.xml" value="0.20416666666666666" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/menu/menu_thong_tin.xml" value="0.19947916666666668" />
+        <entry key="..\:/a ki 1 n3/Project Android/DocBaoOnline/app/src/main/res/menu/menu_xoa.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

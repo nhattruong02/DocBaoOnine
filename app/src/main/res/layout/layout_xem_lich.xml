@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/lich"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_margin="10dp"
+        android:id="@+id/img_quay_lai_tt"
+        android:src="@drawable/ic_quay_lai"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <LinearLayout
+        android:layout_marginTop="80dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <CalendarView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/txt_ngay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ngày"
+            android:textColor="@color/black"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/txt_thang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="35dp"
+            android:layout_toRightOf="@id/txt_ngay"
+            android:text="Tháng"
+            android:textColor="@color/black"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/txt_nam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="35dp"
+            android:layout_toRightOf="@id/txt_thang"
+            android:text="Năm"
+            android:textColor="@color/black"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/txt_ngayn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_ngay"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="10dp"
+            android:text="30"
+            android:textColor="@color/black"
+            android:textSize="30sp" />
+
+        <TextView
+            android:textColor="@color/black"
+            android:id="@+id/txt_thangn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_thang"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/txt_ngay"
+            android:text="12"
+            android:textSize="30sp" />
+
+        <TextView
+            android:textColor="@color/black"
+            android:id="@+id/txt_namn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/txt_nam"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="10dp"
+            android:layout_toRightOf="@id/txt_thang"
+            android:text="2020"
+            android:textSize="30sp" />
+    </RelativeLayout>
+</LinearLayout>

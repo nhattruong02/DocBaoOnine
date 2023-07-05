@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+
+            <ImageView
+                android:id="@+id/img_delete_dl"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toRightOf="@id/edt_tim_kiem_dl"
+                android:src="@drawable/ic_xoa" />
+
+            <EditText
+                android:id="@+id/edt_tim_kiem_dl"
+                android:layout_width="330dp"
+                android:layout_height="50dp"
+                android:hint="Tìm kiếm" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/lv_da_luu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

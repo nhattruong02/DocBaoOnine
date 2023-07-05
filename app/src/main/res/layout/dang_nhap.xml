@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:textColor="#059386"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:text="Đăng Nhập"
+        android:textSize="50dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </TextView>
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@null"
+        android:src="@drawable/bao"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"/>
+    <EditText
+        android:id="@+id/edt_tk"
+        android:layout_marginTop="30dp"
+        android:paddingLeft="15dp"
+        android:drawableLeft="@drawable/ic_thong_tin"
+        android:hint="Tài khoản"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:textSize="30dp"
+        android:background="@drawable/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"/>
+    <EditText
+        android:inputType="textPassword"
+        android:id="@+id/edt_mk"
+        android:paddingLeft="15dp"
+        android:hint="Mật khẩu"
+        android:drawableLeft="@drawable/ic_key"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp"
+        android:textSize="30dp"
+        android:background="@drawable/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"/>
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:id="@+id/btndangnhap"
+            android:background="@drawable/custom_button"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:text="Đăng nhập"/>
+        <Button
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:id="@+id/btndangky"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/custom_button"
+            android:layout_width="170dp"
+            android:layout_height="wrap_content"
+            android:text="Đăng ký"/>
+    </LinearLayout>
+
+</LinearLayout>
